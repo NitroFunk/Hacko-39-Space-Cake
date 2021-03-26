@@ -8,9 +8,9 @@ Although it is not entirely clear how much the use of the face mask can protect 
 
 ## GETTING STARTED
 
-- Clone this repo: `https://github.com/SatYu26/2021-Solution-Challenge-Submission`
+- Clone this repo: `https://github.com/NitroFunk/MaskDetectionApp`
 
-- cd into the folder: `cd 2021-Solution-Challenge-Submission`
+- cd into the folder: `cd MaskDetectionApp`
 
 - run pub get: `flutter pub get`
 

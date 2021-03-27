@@ -63,7 +63,9 @@ Finally we can modify a little the Recognition class, and the MultiboxTracker cl
 
 # WORKING
 
-<img src="https://drive.google.com/file/d/1dhI6EesuvfmxRzDa6f3zH0DuTLu5QCxN/view?usp=sharing" width="40" height="40" />
+<img src="./Demo/DemoGIF.gif"
+     alt="demoSETUP!"
+     style="float: left; margin-right: 10px;" />
 
 ## Face mask Detection
 

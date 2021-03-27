@@ -8,9 +8,9 @@ Although it is not entirely clear how much the use of the face mask can protect 
 
 ## GETTING STARTED
 
-- Clone this repo: `https://github.com/SatYu26/2021-Solution-Challenge-Submission`
+- Clone this repo: `https://github.com/NitroFunk/MaskDetectionApp`
 
-- cd into the folder: `cd 2021-Solution-Challenge-Submission`
+- cd into the folder: `cd MaskDetectionApp`
 
 - run pub get: `flutter pub get`
 
@@ -62,6 +62,8 @@ Then we can modify the recognizeImage method of TensorFlow Lite model class (we 
 Finally we can modify a little the Recognition class, and the MultiboxTracker class by adding a color to the recognition result. In our case Green for “mask”, Red for “no mask” and blue for “not sure” if the confidence is lower than a threshold.
 
 # WORKING
+
+<img src="https://drive.google.com/file/d/1dhI6EesuvfmxRzDa6f3zH0DuTLu5QCxN/view?usp=sharing" width="40" height="40" />
 
 ## Face mask Detection
 
